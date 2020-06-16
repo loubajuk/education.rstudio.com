@@ -1,18 +1,31 @@
 ---
-title: ""
+title: "RStudio Cloud to be generally available in August in time for fall classes"
 author: 
   - "Lou Bajuk"
-date: '2020-06-20'
+date: '2020-06-23'
 categories: [teach]
 tags: [rstudio-cloud]
 slug: cloud-update
 description: |
-  Short one sentence desription goes here
+  RStudio Cloud will be generally available on Aug. 3rd, 2020, with a variety of plans available for teachers and instructors planning to teach classes or workshops.
 photo:
   url: https://unsplash.com/photos/CG7YwmRDGvI
   author: Nacho Rochon
 ---
 
-Hi Lou,
+# What is RStudio.Cloud?
 
-Markdown formatted text goes here.
+RStudio Cloud is a lightweight, cloud-based solution, allowing the R Community to do, share, teach and learn data science online. It simplifies the process of teaching R to your students or colleagues, by letting the instructor focus on the content, not the infrastructure. Students learn directly from their web browsers, with nothing to install locally, and with no infrastructure for the instructor to maintain.
+
+RStudio Cloud is designed from the ground up with to make data science teaching easier for instructors and students:
+* Classes can be organized in workspaces
+* Members can be assigned different roles: instructor, TA, student
+* Projects can be public or private
+* Projects can be made into assignments
+* Students can make copies of projects created by the instructor, with the necessary environment automatically replicated.
+* Instructors can peek into student projects
+
+In addition to teaching data science, RStudio Cloud is a great platform for doing data science as well. The ability to share projects makes it easy for researchers from different groups or institutions to collaborate, and is useful for any data science team that wants to build and share data science work, without having to maintain their own IT infrastructure.  
+
+To learn more, check out our recent webinar on [Teaching R Online with RStudio Cloud](https://rstudio.com/resources/webinars/teaching-r-online-with-rstudio-cloud/), or sign up at https://rstudio.cloud/ and get started for free.
+
